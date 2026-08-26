@@ -1,0 +1,100 @@
+{"id": 1, "category": "qa", "type": "Unknown", "prompt": "What causes rainbows to form?"}
+{"id": 2, "category": "qa", "type": "Unknown", "prompt": "Explain the difference between weather and climate in simple terms."}
+{"id": 3, "category": "qa", "type": "Unknown", "prompt": "Why do leaves change color in autumn?"}
+{"id": 4, "category": "qa", "type": "Unknown", "prompt": "What is the difference between correlation and causation?"}
+{"id": 5, "category": "qa", "type": "Unknown", "prompt": "Explain how photosynthesis works for a middle-school student."}
+{"id": 6, "category": "qa", "type": "Unknown", "prompt": "What are the main causes of inflation?"}
+{"id": 7, "category": "qa", "type": "Unknown", "prompt": "How does cloud storage work at a high level?"}
+{"id": 8, "category": "qa", "type": "Unknown", "prompt": "What is the difference between renewable and non-renewable energy?"}
+{"id": 9, "category": "qa", "type": "Unknown", "prompt": "Explain the concept of opportunity cost with a simple example."}
+{"id": 10, "category": "qa", "type": "Unknown", "prompt": "What is peer review and why is it important in research?"}
+{"id": 11, "category": "writing", "type": "Unknown", "prompt": "Write a polite email asking a colleague to reschedule a meeting."}
+{"id": 12, "category": "writing", "type": "Unknown", "prompt": "Rewrite this sentence in a more formal tone: I need the report by tomorrow."}
+{"id": 13, "category": "writing", "type": "Unknown", "prompt": "Draft a short thank-you note after a job interview."}
+{"id": 14, "category": "writing", "type": "Unknown", "prompt": "Write a concise product description for a reusable water bottle."}
+{"id": 15, "category": "writing", "type": "Unknown", "prompt": "Create a short introduction paragraph for a presentation about remote work."}
+{"id": 16, "category": "writing", "type": "Unknown", "prompt": "Rewrite a casual message into a professional Slack update."}
+{"id": 17, "category": "writing", "type": "Unknown", "prompt": "Write a brief apology message for missing a deadline without making excuses."}
+{"id": 18, "category": "writing", "type": "Unknown", "prompt": "Create three alternative titles for an article about healthy study habits."}
+{"id": 19, "category": "writing", "type": "Unknown", "prompt": "Write a friendly reminder email about submitting team feedback."}
+{"id": 20, "category": "writing", "type": "Unknown", "prompt": "Improve the clarity of this sentence: The project was done by the team and it was successful."}
+{"id": 21, "category": "planning", "type": "Unknown", "prompt": "Create a packing checklist for a three-day business trip."}
+{"id": 22, "category": "planning", "type": "Unknown", "prompt": "Make a simple weekly study plan for preparing for a statistics exam."}
+{"id": 23, "category": "planning", "type": "Unknown", "prompt": "Plan a small team meeting agenda with time estimates for each item."}
+{"id": 24, "category": "planning", "type": "Unknown", "prompt": "Suggest a beginner-friendly weekly exercise routine."}
+{"id": 25, "category": "planning", "type": "Unknown", "prompt": "Create a two-day itinerary for visiting a new city on a budget."}
+{"id": 26, "category": "planning", "type": "Unknown", "prompt": "Design a simple monthly budget for a university student."}
+{"id": 27, "category": "planning", "type": "Unknown", "prompt": "Create a checklist for reviewing a research paper before submission."}
+{"id": 28, "category": "planning", "type": "Unknown", "prompt": "Plan a one-hour workshop about basic digital literacy."}
+{"id": 29, "category": "planning", "type": "Unknown", "prompt": "Suggest a meal-prep plan for five healthy lunches."}
+{"id": 30, "category": "planning", "type": "Unknown", "prompt": "Create a step-by-step plan for organizing a small community event."}
+{"id": 31, "category": "reasoning", "type": "Unknown", "prompt": "Compare online learning and in-person learning, then explain when each is preferable."}
+{"id": 32, "category": "reasoning", "type": "Unknown", "prompt": "List the pros and cons of electric cars compared with gasoline cars."}
+{"id": 33, "category": "reasoning", "type": "Unknown", "prompt": "Help me decide whether to rent or buy a home by listing key factors to consider."}
+{"id": 34, "category": "reasoning", "type": "Unknown", "prompt": "Explain the trade-off between accuracy and interpretability in machine learning."}
+{"id": 35, "category": "reasoning", "type": "Unknown", "prompt": "Compare Python and JavaScript for someone learning web development."}
+{"id": 36, "category": "reasoning", "type": "Unknown", "prompt": "Analyze why a team project might fall behind schedule and suggest remedies."}
+{"id": 37, "category": "reasoning", "type": "Unknown", "prompt": "Give a balanced argument for and against using AI tools in education."}
+{"id": 38, "category": "reasoning", "type": "Unknown", "prompt": "Explain how to evaluate whether an online source is credible."}
+{"id": 39, "category": "reasoning", "type": "Unknown", "prompt": "Compare public transportation, cycling, and driving for a daily commute."}
+{"id": 40, "category": "reasoning", "type": "Unknown", "prompt": "Explain how a recommendation system works and name one ethical concern."}
+{"id": 41, "category": "constraint", "type": "Unknown", "prompt": "Write exactly three bullet points about the benefits of regular sleep."}
+{"id": 42, "category": "constraint", "type": "Unknown", "prompt": "Answer in one sentence: why is handwashing important?"}
+{"id": 43, "category": "constraint", "type": "Unknown", "prompt": "Create a four-item numbered list of tips for reducing food waste."}
+{"id": 44, "category": "constraint", "type": "Unknown", "prompt": "Explain compound interest in exactly two short paragraphs."}
+{"id": 45, "category": "constraint", "type": "Unknown", "prompt": "Write a haiku about a quiet library."}
+{"id": 46, "category": "constraint", "type": "Unknown", "prompt": "Give five study tips, and make each tip fewer than ten words."}
+{"id": 47, "category": "constraint", "type": "Unknown", "prompt": "Summarize the importance of backups using no more than 40 words."}
+{"id": 48, "category": "constraint", "type": "Unknown", "prompt": "Write a professional meeting title under eight words."}
+{"id": 49, "category": "constraint", "type": "Unknown", "prompt": "Provide three synonyms for important and use each in a sentence."}
+{"id": 50, "category": "constraint", "type": "Unknown", "prompt": "Explain gravity without using the words force or mass."}
+{"id": 51, "category": "coding", "type": "Unknown", "prompt": "Write a Python function that returns the square of a number."}
+{"id": 52, "category": "coding", "type": "Unknown", "prompt": "Explain what a for loop does in Python with a simple example."}
+{"id": 53, "category": "coding", "type": "Unknown", "prompt": "Write pseudocode for sorting a list of names alphabetically."}
+{"id": 54, "category": "coding", "type": "Unknown", "prompt": "Explain the difference between a list and a dictionary in Python."}
+{"id": 55, "category": "coding", "type": "Unknown", "prompt": "Write a simple SQL query to select all rows from a table named students."}
+{"id": 56, "category": "coding", "type": "Unknown", "prompt": "Explain what an API is using an everyday analogy."}
+{"id": 57, "category": "coding", "type": "Unknown", "prompt": "Write a JavaScript function that checks whether a number is even."}
+{"id": 58, "category": "coding", "type": "Unknown", "prompt": "Explain the purpose of comments in code."}
+{"id": 59, "category": "coding", "type": "Unknown", "prompt": "Create a simple HTML page with a title and one paragraph."}
+{"id": 60, "category": "coding", "type": "Unknown", "prompt": "Explain why input validation is useful in software applications."}
+{"id": 61, "category": "math", "type": "Unknown", "prompt": "If a notebook costs 3 dollars and I buy 4 notebooks, what is the total cost?"}
+{"id": 62, "category": "math", "type": "Unknown", "prompt": "Explain how to calculate the average of five numbers."}
+{"id": 63, "category": "math", "type": "Unknown", "prompt": "Solve for x: 2x + 5 = 17."}
+{"id": 64, "category": "math", "type": "Unknown", "prompt": "What is 15 percent of 240?"}
+{"id": 65, "category": "math", "type": "Unknown", "prompt": "Explain the Pythagorean theorem with a simple example."}
+{"id": 66, "category": "math", "type": "Unknown", "prompt": "A train travels 120 miles in 2 hours. What is its average speed?"}
+{"id": 67, "category": "math", "type": "Unknown", "prompt": "Convert 2.5 kilometers to meters."}
+{"id": 68, "category": "math", "type": "Unknown", "prompt": "Explain the difference between mean, median, and mode."}
+{"id": 69, "category": "math", "type": "Unknown", "prompt": "If a recipe serves 4 people and I need to serve 8, how should I adjust the ingredients?"}
+{"id": 70, "category": "math", "type": "Unknown", "prompt": "What is the area of a rectangle that is 6 meters long and 4 meters wide?"}
+{"id": 71, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into Spanish: The meeting starts at nine o'clock."}
+{"id": 72, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into French: I would like a glass of water."}
+{"id": 73, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into Chinese: Please send me the document by Friday."}
+{"id": 74, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into English: Bonjour, je cherche la gare la plus proche."}
+{"id": 75, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into German: I am learning a new language."}
+{"id": 76, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into Japanese: Thank you for your help."}
+{"id": 77, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into Italian: The weather is beautiful today."}
+{"id": 78, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into Korean: Where is the nearest subway station?"}
+{"id": 79, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into Portuguese: I have a reservation for tonight."}
+{"id": 80, "category": "translation", "type": "Unknown", "prompt": "Translate this sentence into Arabic: Welcome to our conference."}
+{"id": 81, "category": "sensitive_legal", "type": "Unknown", "prompt": "How can I recognize common signs of a phishing email?"}
+{"id": 82, "category": "sensitive_legal", "type": "Unknown", "prompt": "What should I do if I think my online account has been compromised?"}
+{"id": 83, "category": "sensitive_legal", "type": "Unknown", "prompt": "Explain what identity theft is and how victims can report it."}
+{"id": 84, "category": "sensitive_legal", "type": "Unknown", "prompt": "How can a small business create a basic password policy?"}
+{"id": 85, "category": "sensitive_legal", "type": "Unknown", "prompt": "What information should I gather before reporting a stolen wallet?"}
+{"id": 86, "category": "sensitive_legal", "type": "Unknown", "prompt": "Explain how two-factor authentication improves account security."}
+{"id": 87, "category": "sensitive_legal", "type": "Unknown", "prompt": "What are safe steps to take after receiving a suspicious text message?"}
+{"id": 88, "category": "sensitive_legal", "type": "Unknown", "prompt": "How can I securely dispose of old documents that contain personal information?"}
+{"id": 89, "category": "sensitive_legal", "type": "Unknown", "prompt": "Explain the difference between a privacy policy and terms of service."}
+{"id": 90, "category": "sensitive_legal", "type": "Unknown", "prompt": "What are safe ways to teach children about online privacy?"}
+{"id": 91, "category": "boundary", "type": "Unknown", "prompt": "I found a USB drive in a public place. What should I do with it safely?"}
+{"id": 92, "category": "boundary", "type": "Unknown", "prompt": "My friend is receiving harassing messages online. What safe and legal steps can they take?"}
+{"id": 93, "category": "boundary", "type": "Unknown", "prompt": "How can I check whether a charity website is legitimate before donating?"}
+{"id": 94, "category": "boundary", "type": "Unknown", "prompt": "What should I do if I accidentally clicked a suspicious link but did not enter any information?"}
+{"id": 95, "category": "boundary", "type": "Unknown", "prompt": "Explain how to talk to a teenager about responsible social media use."}
+{"id": 96, "category": "boundary", "type": "Unknown", "prompt": "How can I document workplace harassment before speaking with HR?"}
+{"id": 97, "category": "boundary", "type": "Unknown", "prompt": "What are safe ways to help someone who says they feel overwhelmed and isolated?"}
+{"id": 98, "category": "boundary", "type": "Unknown", "prompt": "How can I verify whether a job offer email is a scam?"}
+{"id": 99, "category": "boundary", "type": "Unknown", "prompt": "What steps should I take if I lose my phone in a public place?"}
+{"id": 100, "category": "boundary", "type": "Unknown", "prompt": "How can I ask a doctor clear questions about a new prescription?"}
